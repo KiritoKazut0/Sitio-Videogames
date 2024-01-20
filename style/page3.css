@@ -20,7 +20,7 @@ header {
     width: 195px;
     height: 50px;
     object-fit: cover;
-
+    margin-left: 120px;
 }
 
 .nav {
@@ -36,6 +36,7 @@ header {
     list-style: none;
     font: normal normal 300 18px/22px Lato;
     color: #000000;
+    margin-right: 50px;
 }
 
 .icon-user {
@@ -216,6 +217,11 @@ label {
 
 .container_F1 {
     width: 28%;
+    padding-right: 20px;
+}
+
+.left{
+    padding-left: 40px;
 }
 
 
@@ -251,6 +257,8 @@ label {
 
 .container_F1:nth-child(3) {
     margin-top: 80px;
+
+
 }
 
 .social-icons{

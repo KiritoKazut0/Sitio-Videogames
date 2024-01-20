@@ -271,6 +271,11 @@ article {
 
 .container_F1 {
     width: 28%;
+    padding-right: 20px;
+}
+
+.left{
+    padding-left: 40px;
 }
 
 
@@ -306,6 +311,8 @@ article {
 
 .container_F1:nth-child(3) {
     margin-top: 80px;
+
+
 }
 
 .social-icons{

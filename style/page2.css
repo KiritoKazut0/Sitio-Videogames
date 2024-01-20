@@ -32,6 +32,7 @@
     color: white;
     background: black;
     object-fit: cover;
+    margin-left: 20px;
 }
 
 .nav {
@@ -329,6 +330,11 @@ ul {
 
 .container_F1 {
     width: 28%;
+    padding-right: 20px;
+}
+
+.left{
+    padding-left: 40px;
 }
 
 
@@ -364,6 +370,8 @@ ul {
 
 .container_F1:nth-child(3) {
     margin-top: 80px;
+
+
 }
 
 .social-icons{
